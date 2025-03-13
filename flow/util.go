@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/reugn/go-streams"
+	"github.com/johnjonesbwai/go-streams"
 )
 
 // DoStream streams data from the outlet to inlet.

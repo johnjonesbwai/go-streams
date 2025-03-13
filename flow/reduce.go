@@ -1,7 +1,7 @@
 package flow
 
 import (
-	"github.com/reugn/go-streams"
+	"github.com/johnjonesbwai/go-streams"
 )
 
 // ReduceFunction combines the current element with the last reduced value.

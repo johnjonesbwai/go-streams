@@ -1,7 +1,7 @@
 # Contributing
 
 `go-streams` is an open-source project and welcomes contributions and suggestions.  
-File an [issue](https://github.com/reugn/go-streams/issues) to report a bug or discuss a new feature.
+File an [issue](https://github.com/johnjonesbwai/go-streams/issues) to report a bug or discuss a new feature.
 Open a pull request to propose changes.
 
 ## Prerequisites

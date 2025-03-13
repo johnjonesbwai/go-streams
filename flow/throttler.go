@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/reugn/go-streams"
+	"github.com/johnjonesbwai/go-streams"
 )
 
 // ThrottleMode represents Throttler's processing behavior when its element

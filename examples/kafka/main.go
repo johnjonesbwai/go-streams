@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/IBM/sarama"
-	"github.com/reugn/go-streams/flow"
-	ext "github.com/reugn/go-streams/kafka"
+	"github.com/johnjonesbwai/go-streams/flow"
+	ext "github.com/johnjonesbwai/go-streams/kafka"
 )
 
 func main() {

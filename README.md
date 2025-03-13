@@ -1,7 +1,7 @@
 # go-streams
-[![Build](https://github.com/reugn/go-streams/actions/workflows/build.yml/badge.svg)](https://github.com/reugn/go-streams/actions/workflows/build.yml)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/reugn/go-streams)](https://pkg.go.dev/github.com/reugn/go-streams)
-[![Go Report Card](https://goreportcard.com/badge/github.com/reugn/go-streams)](https://goreportcard.com/report/github.com/reugn/go-streams)
+[![Build](https://github.com/johnjonesbwai/go-streams/actions/workflows/build.yml/badge.svg)](https://github.com/johnjonesbwai/go-streams/actions/workflows/build.yml)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/johnjonesbwai/go-streams)](https://pkg.go.dev/github.com/johnjonesbwai/go-streams)
+[![Go Report Card](https://goreportcard.com/badge/github.com/johnjonesbwai/go-streams)](https://goreportcard.com/report/github.com/johnjonesbwai/go-streams)
 [![codecov](https://codecov.io/gh/reugn/go-streams/branch/master/graph/badge.svg)](https://codecov.io/gh/reugn/go-streams)
 
 A lightweight stream processing library for Go.  
@@ -16,7 +16,7 @@ Building blocks:
 * Flow - A Flow is a set of stream processing steps that has one open input and one open output. 
 * Sink - A Sink is a set of stream processing steps that has one open input. Can be used as a Subscriber.
 
-Implemented Flows ([flow](https://github.com/reugn/go-streams/tree/master/flow) package):  
+Implemented Flows ([flow](https://github.com/johnjonesbwai/go-streams/tree/master/flow) package):  
 * Map
 * FlatMap
 * Filter

@@ -3,7 +3,7 @@ package extension
 import (
 	"fmt"
 
-	"github.com/reugn/go-streams"
+	"github.com/johnjonesbwai/go-streams"
 )
 
 // StdoutSink represents a simple outbound connector that writes

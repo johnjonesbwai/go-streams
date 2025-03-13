@@ -6,8 +6,8 @@ import (
 	"time"
 
 	aero "github.com/aerospike/aerospike-client-go/v7"
-	"github.com/reugn/go-streams/aerospike"
-	"github.com/reugn/go-streams/flow"
+	"github.com/johnjonesbwai/go-streams/aerospike"
+	"github.com/johnjonesbwai/go-streams/flow"
 )
 
 func main() {

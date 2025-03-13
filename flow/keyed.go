@@ -3,7 +3,7 @@ package flow
 import (
 	"sync"
 
-	"github.com/reugn/go-streams"
+	"github.com/johnjonesbwai/go-streams"
 )
 
 // Keyed represents a flow where stream elements are partitioned by key

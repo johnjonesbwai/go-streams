@@ -6,8 +6,8 @@ import (
 	"log"
 
 	"cloud.google.com/go/storage"
-	"github.com/reugn/go-streams/flow"
-	connector "github.com/reugn/go-streams/gcp"
+	"github.com/johnjonesbwai/go-streams/flow"
+	connector "github.com/johnjonesbwai/go-streams/gcp"
 	"google.golang.org/api/option"
 )
 

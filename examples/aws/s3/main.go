@@ -9,8 +9,8 @@ import (
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/service/s3"
-	connector "github.com/reugn/go-streams/aws"
-	"github.com/reugn/go-streams/flow"
+	connector "github.com/johnjonesbwai/go-streams/aws"
+	"github.com/johnjonesbwai/go-streams/flow"
 )
 
 func main() {

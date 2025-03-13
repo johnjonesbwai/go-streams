@@ -10,8 +10,8 @@ import (
 	"sync"
 
 	"github.com/aws/aws-sdk-go-v2/service/s3"
-	"github.com/reugn/go-streams"
-	"github.com/reugn/go-streams/flow"
+	"github.com/johnjonesbwai/go-streams"
+	"github.com/johnjonesbwai/go-streams/flow"
 )
 
 const s3DefaultChunkSize = 5 * 1024 * 1024 // 5 MB

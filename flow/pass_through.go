@@ -1,7 +1,7 @@
 package flow
 
 import (
-	"github.com/reugn/go-streams"
+	"github.com/johnjonesbwai/go-streams"
 )
 
 // PassThrough retransmits incoming elements downstream as they are.

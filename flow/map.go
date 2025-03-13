@@ -3,7 +3,7 @@ package flow
 import (
 	"fmt"
 
-	"github.com/reugn/go-streams"
+	"github.com/johnjonesbwai/go-streams"
 )
 
 // MapFunction represents a Map transformation function.

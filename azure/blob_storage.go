@@ -10,8 +10,8 @@ import (
 	"github.com/Azure/azure-sdk-for-go/sdk/storage/azblob"
 	"github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/blockblob"
 	"github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/container"
-	"github.com/reugn/go-streams"
-	"github.com/reugn/go-streams/flow"
+	"github.com/johnjonesbwai/go-streams"
+	"github.com/johnjonesbwai/go-streams/flow"
 )
 
 // BlobStorageSourceConfig represents the configuration options for the Azure

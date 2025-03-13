@@ -9,8 +9,8 @@ import (
 	"time"
 
 	aero "github.com/aerospike/aerospike-client-go/v7"
-	"github.com/reugn/go-streams"
-	"github.com/reugn/go-streams/flow"
+	"github.com/johnjonesbwai/go-streams"
+	"github.com/johnjonesbwai/go-streams/flow"
 )
 
 // PollingConfig contains the configuration for polling Aerospike cluster events.

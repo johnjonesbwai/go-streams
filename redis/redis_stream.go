@@ -6,9 +6,9 @@ import (
 	"log/slog"
 	"strings"
 
+	"github.com/johnjonesbwai/go-streams"
+	"github.com/johnjonesbwai/go-streams/flow"
 	"github.com/redis/go-redis/v9"
-	"github.com/reugn/go-streams"
-	"github.com/reugn/go-streams/flow"
 )
 
 // StreamSource represents a Redis stream source connector.

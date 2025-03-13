@@ -1,4 +1,4 @@
-module github.com/reugn/go-streams/examples
+module github.com/johnjonesbwai/go-streams/examples
 
 go 1.22.0
 
@@ -15,16 +15,16 @@ require (
 	github.com/nats-io/nats.go v1.38.0
 	github.com/nats-io/stan.go v0.10.4
 	github.com/redis/go-redis/v9 v9.7.0
-	github.com/reugn/go-streams v0.11.0
-	github.com/reugn/go-streams/aerospike v0.0.0
-	github.com/reugn/go-streams/aws v0.0.0
-	github.com/reugn/go-streams/azure v0.0.0
-	github.com/reugn/go-streams/gcp v0.0.0
-	github.com/reugn/go-streams/kafka v0.0.0
-	github.com/reugn/go-streams/nats v0.0.0
-	github.com/reugn/go-streams/pulsar v0.0.0
-	github.com/reugn/go-streams/redis v0.0.0
-	github.com/reugn/go-streams/websocket v0.0.0
+	github.com/johnjonesbwai/go-streams v0.11.0
+	github.com/johnjonesbwai/go-streams/aerospike v0.0.0
+	github.com/johnjonesbwai/go-streams/aws v0.0.0
+	github.com/johnjonesbwai/go-streams/azure v0.0.0
+	github.com/johnjonesbwai/go-streams/gcp v0.0.0
+	github.com/johnjonesbwai/go-streams/kafka v0.0.0
+	github.com/johnjonesbwai/go-streams/nats v0.0.0
+	github.com/johnjonesbwai/go-streams/pulsar v0.0.0
+	github.com/johnjonesbwai/go-streams/redis v0.0.0
+	github.com/johnjonesbwai/go-streams/websocket v0.0.0
 	google.golang.org/api v0.215.0
 )
 
@@ -165,13 +165,13 @@ require (
 )
 
 replace (
-	github.com/reugn/go-streams/aerospike => ../aerospike
-	github.com/reugn/go-streams/aws => ../aws
-	github.com/reugn/go-streams/azure => ../azure
-	github.com/reugn/go-streams/gcp => ../gcp
-	github.com/reugn/go-streams/kafka => ../kafka
-	github.com/reugn/go-streams/nats => ../nats
-	github.com/reugn/go-streams/pulsar => ../pulsar
-	github.com/reugn/go-streams/redis => ../redis
-	github.com/reugn/go-streams/websocket => ../websocket
+	github.com/johnjonesbwai/go-streams/aerospike => ../aerospike
+	github.com/johnjonesbwai/go-streams/aws => ../aws
+	github.com/johnjonesbwai/go-streams/azure => ../azure
+	github.com/johnjonesbwai/go-streams/gcp => ../gcp
+	github.com/johnjonesbwai/go-streams/kafka => ../kafka
+	github.com/johnjonesbwai/go-streams/nats => ../nats
+	github.com/johnjonesbwai/go-streams/pulsar => ../pulsar
+	github.com/johnjonesbwai/go-streams/redis => ../redis
+	github.com/johnjonesbwai/go-streams/websocket => ../websocket
 )

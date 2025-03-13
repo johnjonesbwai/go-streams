@@ -1,8 +1,8 @@
 package extension
 
 import (
-	"github.com/reugn/go-streams"
-	"github.com/reugn/go-streams/flow"
+	"github.com/johnjonesbwai/go-streams"
+	"github.com/johnjonesbwai/go-streams/flow"
 )
 
 // ChanSource represents an inbound connector that creates a stream of

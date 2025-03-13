@@ -1,10 +1,10 @@
-module github.com/reugn/go-streams/kafka
+module github.com/johnjonesbwai/go-streams/kafka
 
 go 1.21.0
 
 require (
 	github.com/IBM/sarama v1.45.0
-	github.com/reugn/go-streams v0.11.0
+	github.com/johnjonesbwai/go-streams v0.11.0
 )
 
 require (

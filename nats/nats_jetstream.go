@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"log/slog"
 
+	"github.com/johnjonesbwai/go-streams"
+	"github.com/johnjonesbwai/go-streams/flow"
 	"github.com/nats-io/nats.go"
-	"github.com/reugn/go-streams"
-	"github.com/reugn/go-streams/flow"
 )
 
 // JetStreamSourceConfig specifies parameters for the JetStream source connector.

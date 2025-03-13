@@ -1,6 +1,6 @@
 package extension
 
-import "github.com/reugn/go-streams"
+import "github.com/johnjonesbwai/go-streams"
 
 // IgnoreSink represents a simple outbound connector that discards
 // all elements of a stream.

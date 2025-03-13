@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/reugn/go-streams"
+	"github.com/johnjonesbwai/go-streams"
 )
 
 // Batch processor breaks a stream of elements into batches based on size or timing.

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log/slog"
 
+	"github.com/johnjonesbwai/go-streams"
+	"github.com/johnjonesbwai/go-streams/flow"
 	stan "github.com/nats-io/stan.go"
-	"github.com/reugn/go-streams"
-	"github.com/reugn/go-streams/flow"
 )
 
 // StreamingSource represents a NATS Streaming source connector.

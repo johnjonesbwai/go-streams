@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/apache/pulsar-client-go/pulsar"
-	"github.com/reugn/go-streams/flow"
-	ext "github.com/reugn/go-streams/pulsar"
+	"github.com/johnjonesbwai/go-streams/flow"
+	ext "github.com/johnjonesbwai/go-streams/pulsar"
 )
 
 func main() {

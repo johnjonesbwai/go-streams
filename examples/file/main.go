@@ -1,8 +1,8 @@
 package main
 
 import (
-	ext "github.com/reugn/go-streams/extension"
-	"github.com/reugn/go-streams/flow"
+	ext "github.com/johnjonesbwai/go-streams/extension"
+	"github.com/johnjonesbwai/go-streams/flow"
 )
 
 func main() {

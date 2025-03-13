@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/reugn/go-streams/flow"
-	ws "github.com/reugn/go-streams/websocket"
+	"github.com/johnjonesbwai/go-streams/flow"
+	ws "github.com/johnjonesbwai/go-streams/websocket"
 )
 
 type wsServer struct {

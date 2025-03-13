@@ -7,11 +7,11 @@ import (
 	"strings"
 	"time"
 
+	"github.com/johnjonesbwai/go-streams/extension"
+	"github.com/johnjonesbwai/go-streams/flow"
+	ext "github.com/johnjonesbwai/go-streams/nats"
 	"github.com/nats-io/nats.go"
 	"github.com/nats-io/stan.go"
-	"github.com/reugn/go-streams/extension"
-	"github.com/reugn/go-streams/flow"
-	ext "github.com/reugn/go-streams/nats"
 )
 
 func main() {
